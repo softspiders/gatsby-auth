@@ -1,6 +1,6 @@
 # gatsby-auth
 
-Mimimalistic authentication in Gatsby.js
+Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/router)
 
 ## Under construction
 
