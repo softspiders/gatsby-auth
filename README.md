@@ -1,13 +1,14 @@
 # gatsby-auth
+
 Mimimalistic authentication in Gatsby.js
+
+## Under construction
 
 ## Direct Descendants
 Yet absent
 
-## Direct Ancestor
+## Direct Ancestors
 [Mimimalistic Gatsby](https://github.com/softspider/gatsby)
-
-## Under construction
 
 
 ## Inspired by
