@@ -5,7 +5,7 @@ Mimimalistic authentication in Gatsby.js
 Yet absent
 
 ## Direct Ancestor
-[Mimimalistic Gatsby] https://github.com/softspider/gatsby
+[Mimimalistic Gatsby](https://github.com/softspider/gatsby)
 
 ## Under construction
 
