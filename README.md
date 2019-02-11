@@ -8,7 +8,7 @@ Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/ro
 Yet absent
 
 ## Direct Ancestors
-[Mimimalistic Gatsby.js](https://github.com/softspider/gatsby)
+[Mimimalistic Gatsby.js](https://github.com/softspider/gatsby.js)
 
 
 ## Inspired by
