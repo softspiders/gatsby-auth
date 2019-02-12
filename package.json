@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-auth-hello-world",
+  "description": "gatsby-auth hello-world with Reach Router and client-only private routes",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.118",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
