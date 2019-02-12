@@ -26,6 +26,11 @@ npm i
 npm start
 ```
 
+## Application Credentials
+
+- username: *john*
+- password: *pass*
+
 ## Inspired by
 
 - [Gatsby Authentication Demo](https://github.com/gatsbyjs/gatsby/tree/master/examples/simple-auth)
