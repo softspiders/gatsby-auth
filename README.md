@@ -1,6 +1,6 @@
 # gatsby-auth
 
-Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/router)
+Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/router) with privat client-only routes.
 
 ## Under construction
 
@@ -12,7 +12,9 @@ Yet absent
 
 
 ## Inspired by
-[Gatsby Authentication Demo](https://github.com/gatsbyjs/gatsby/tree/master/examples/simple-auth)
+
+- [Gatsby Authentication Demo](https://github.com/gatsbyjs/gatsby/tree/master/examples/simple-auth)
+- [Making a site with user authentication](https://www.gatsbyjs.org/docs/authentication-tutorial/)
 
 
 
