@@ -26,7 +26,7 @@ npm i
 npm start
 ```
 
-## Application Credentials
+## Demo Credentials
 
 - username: *john*
 - password: *pass*
