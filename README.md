@@ -2,6 +2,18 @@
 
 Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/router) and private client-only routes.
 
+---
+
+## Feature tags
+
+- auth
+- gatsby
+- jamstack
+- javascript
+- template
+
+---
+
 ## Direct Descendants
 
 Yet absent
