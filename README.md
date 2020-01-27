@@ -21,7 +21,7 @@ Yet absent
 
 ## Direct Ancestors
 
-[Mimimalistic *Gatsby.js*](https://github.com/softspider/gatsby.js)
+[Mimimalistic *Gatsby.js*](https://github.com/softspiders/gatsby.js)
 
 ## Requirements
 
