@@ -1,4 +1,5 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # gatsby-auth
 
 Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/router) and private client-only routes.
@@ -11,13 +12,10 @@ Example of authentication in Gatsby.js with [Reach Router](https://reach.tech/ro
 - gatsby
 - jamstack
 - javascript
+- starter
 - template
 
 ---
-
-## Direct Descendants
-
-Yet absent
 
 ## Direct Ancestors
 
